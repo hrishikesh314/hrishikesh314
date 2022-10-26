@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hrishikesh Sharma</h1>
-<h3 align="center">Programmer|Developer|Creator</h3>
+<h3 align="center">Programmer|Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrishikesh314&label=Profile%20views&color=0e75b6&style=flat" alt="hrishikesh314" /> </p>
 
@@ -7,23 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Sorting Link**
+- 🔭 I’m currently working on **Sorting Visualizer**
 
 - 🌱 I’m currently learning **Data Structure And Algorithms |**
 
-- 👯 I’m looking to collaborate on **Developing New Things**
+- 👯 I’m looking to collaborate on **Projects**
 
-- 🤝 I’m looking for help with **Sorting Link**
+- 🤝 I’m looking for help with **Sorting Visualizer**
 
 - 👨‍💻 All of my projects are available at [hrishikesh314](hrishikesh314)
 
 - 📝 I regularly write articles on [https://www.quora.com/profile/Hrishikesh-Sharma-46?ch=10&oid=913953975&share=a5b0bf05&srid=U0faY&target_type=user](https://www.quora.com/profile/Hrishikesh-Sharma-46?ch=10&oid=913953975&share=a5b0bf05&srid=U0faY&target_type=user)
 
-- 💬 Ask me about **How to be Positive**
+- 💬 Ask me about **How to Win Life**
 
 - 📫 How to reach me **hrishikeshsharma066@gmail.com**
 
-- ⚡ Fun fact **I think i am tech enhusiast and learning New skill**
+- ⚡ Fun fact **I  am tech enhusiast and learning New skill**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
