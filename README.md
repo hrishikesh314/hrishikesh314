@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hrishikesh Sharma</h1>
-<h3 align="center">Programmer|Developer</h3>
+<h3 align="center">Frontend Developer | Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrishikesh314&label=Profile%20views&color=0e75b6&style=flat" alt="hrishikesh314" /> </p>
 
